@@ -1,4 +1,4 @@
-# Daily Spend Application - Personal Finance Web App
+# Daily Spend Application: Spend, Track and Grow
 
 ## 📌 Overview
 The Daily Spend Application is a web-based personal finance tool designed to help users track expenses, manage budgets, and gain insights into their spending habits. Built with MVC framework and CRUD functionalities, it provides a simple, intuitive interface for better financial management.
